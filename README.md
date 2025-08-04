@@ -21,7 +21,7 @@ Quick Start
 Clone this repo and open it in MATLAB
 Make sure you have the COBRA Toolbox installed
 
-Why this matters
+Why this matters?
 Astrocytes play a key role in brain metabolism.
 This project helps uncover how their metabolism is altered during the progression of MCI and Alzheimer’s Disease, and highlights potential metabolic vulnerabilities that could be targeted in future research.
 
